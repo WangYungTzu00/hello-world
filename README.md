@@ -1,2 +1,1 @@
-# hello-world
-此存儲庫用於練習 GitHub Flow
+ssh-keygen -t ed25519 -C "yarmi000906@gmail.com"
